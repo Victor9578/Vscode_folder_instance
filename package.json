@@ -3,6 +3,7 @@
 	"displayName": "Folder instance",
 	"description": "open folder instance",
 	"version": "0.0.1",
+	"license": "in LICENSE.md",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
